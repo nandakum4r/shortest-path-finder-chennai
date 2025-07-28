@@ -9,11 +9,9 @@ This project is a Java-based application developed as part of the Semester 5 Jav
 Open your terminal and run:
 
 ```sh
-git clone <repository-url>
-cd "SEM 5/JAVA PROGRAMMING/Project/src"
+git clone https://github.com/nandakum4r/shortest-path-finder-chennai.git
+cd "shortest-path-finder-chennai"
 ```
-
-Replace `<repository-url>` with the actual URL of your repository.
 
 ### 2. Compile the Project
 
@@ -25,10 +23,8 @@ javac *.java
 
 ### 3. Run the Application
 
-To run the main class (replace `MainClass` with your actual main class name):
-
 ```sh
-java MainClass
+java Main
 ```
 
 ## Usage
@@ -36,7 +32,4 @@ java MainClass
 - Follow the on-screen instructions provided by the application.
 - Modify or extend the code as needed for your coursework.
 
-## License
-
-This project is for educational purposes.
 
